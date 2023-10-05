@@ -1,4 +1,4 @@
-module github.com/assembla/cony
+module github.com/mataharibiz/cony
 
 go 1.19
 
