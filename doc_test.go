@@ -5,7 +5,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/assembla/cony"
+	"github.com/mataharibiz/cony"
 	amqp "github.com/rabbitmq/amqp091-go"
 )
 
